@@ -7,3 +7,5 @@ For usage use the "help" command
 
 OBS: Program has to run with admin privileges to be able to execute 
 certain commands!
+
+This project is WIP!
